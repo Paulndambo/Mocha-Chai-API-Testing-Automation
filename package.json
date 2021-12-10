@@ -1,0 +1,18 @@
+{
+  "name": "chai-qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tests/employees.js",
+  "scripts": {
+    "test": "mocha tests/employees.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "mocha": "^9.1.3",
+    "nodemon": "^2.0.15"
+  }
+}
